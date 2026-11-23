@@ -1,1 +1,1 @@
-hi
+we are learning how to use GitHub.
